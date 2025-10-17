@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Leather Handbag",
+    "price": 120,
+    "category": "Bags",
+    "description": "High-quality leather handbag perfect for daily use.",
+    "images": [
+      "/images/handbag1.jpg",
+      "/images/handbag2.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Urban Sneakers",
+    "price": 90,
+    "category": "Shoes",
+    "description": "Comfortable and stylish sneakers for everyday wear.",
+    "images": [
+      "/images/sneakers1.jpg",
+      "/images/sneakers2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Classic Wrist Watch",
+    "price": 220,
+    "category": "Watches",
+    "description": "Elegant analog watch with a stainless steel strap.",
+    "images": [
+      "/images/watch1.jpg",
+      "/images/watch2.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Travel Backpack",
+    "price": 150,
+    "category": "Bags",
+    "description": "Durable backpack with multiple compartments and laptop sleeve.",
+    "images": [
+      "/images/backpack1.jpg",
+      "/images/backpack2.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Polarized Sunglasses",
+    "price": 60,
+    "category": "Accessories",
+    "description": "Polarized lenses for UV protection and glare reduction.",
+    "images": [
+      "/images/sunglasses1.jpg",
+      "/images/sunglasses2.jpg"
+    ]
+  }
+]
